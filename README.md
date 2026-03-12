@@ -1,6 +1,6 @@
 👋 Hi, I'm Fidelis Okoh 
 
-Building real-time, scalable web apps with Laravel, React, and Node.js. Passionate about clean code, system architecture, and cloud infrastructure. 
+Full-Stack Software Engineer building scalable web applications with Node.js, NestJS, PHP Laravel, React, and Vue.
 
 🚀 What I Work On 
 - Full-stack applications with Node Js/Laravel + React
@@ -20,11 +20,3 @@ Building real-time, scalable web apps with Laravel, React, and Node.js. Passiona
 - LinkedIn: https://www.linkedin.com/in/fidelis-okoh-946375241/ 
 - Email: iamfidelisokoh@gmail.com
 - Phone number: +2347025910671 
-
-🧠 Link to Past projects
-- [ScreenClass] (https://screenclass.com/)
-- [RovingNaija] (https://rovingnaija.com/)
-- [Cephas ICT] (https://www.cephasict.com/)
-- [Digital Learning circle] (https://digitallearningcircle.com/)
-
-“Clean code, clear thinking, better software.”
